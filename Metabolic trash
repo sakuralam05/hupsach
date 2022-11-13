@@ -1,0 +1,7 @@
+echo '#NewCodingBot'>> README.nd
+gitinit
+git add REWADME.nd
+git commit.m ''Firstcommit''
+git branch.M maain
+git remote add origin git@githiub.com;Sakuralam05/NewCodingBot.git
+git push.u origin main 
